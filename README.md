@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+testing and learning dart & flutter simultaneously
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
